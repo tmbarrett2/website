@@ -55,8 +55,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an anthropologist interested in how market integration influences human movement and infectious disease ecology. My dissertation work focuses on these relationships in rural northeastern Madagascar, where smallholder farmers are increasingly shifting from growing subsistence crops to growing cash crops, particularly vanilla. This change has wide-ranging implications for the health of farmers and their families, and I leverage tools from network science, epidemiology, and human biology to address fundamental questions about the spread of infectious disease with an aim to inform interventions. In doing so, I draw on [One Health](https://www.cdc.gov/onehealth/index.html) as an organizing framework that emphasizes the interconnections of human, animal, and environmental health.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also take a global approach to studying the social determinants of chronic disease. As populations age worldwide, it is important to understand how social inequities both between and within countries drive disparities in chronic diseases of aging. I have contributed to this effort with a focus on cardiometabolic health and immune function through analyses using data from the World Health Organization's [Study on global AGEing and adult health](https://www.who.int/data/data-collection-tools/study-on-global-ageing-and-adult-health), the [Cebu Longitudinal Health and Nutrition Survey](https://cebu.cpc.unc.edu/), and the [Shuar Health and Life History Project](https://www.shuarproject.org/). Locally, at the [Duke University School of Medicine](https://medschool.duke.edu/), I have studied racial and economic disparities in the treatment decision-making process among patients facing kidney failure.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+You can keep up-to-date on my work by following me on Twitter or Google Scholar.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/TylerBarrettCV_Oct2022.pdf" "newtab" >}}CV{{< /staticref >}}.
