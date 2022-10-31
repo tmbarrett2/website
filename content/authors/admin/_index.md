@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tyler Barrett
+title: Tyler M. Barrett
 
 # Full name (for SEO)
 first_name: Tyler
@@ -16,9 +16,6 @@ role: Ph.D. Student, Department of Evolutionary Anthropology
 organizations:
   - name: Duke University
     url: https://duke.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: Insert bio text here...
 
 # Social/Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
