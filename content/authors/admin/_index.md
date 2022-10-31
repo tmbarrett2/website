@@ -15,7 +15,7 @@ role: Ph.D. Student, Department of Evolutionary Anthropology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Duke University
-    url: https://evolutionaryanthropology.duke.edu/
+    url: https://duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Insert bio text here...
@@ -55,7 +55,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student in the Department of Evolutionary Anthropology at Duke University and a graduate research assistant in pandemic lifecycle modeling at the [Triangle Center for Evolutionary Medicine (TriCEM)](https://tricem.org/).
+I am a Ph.D. student in the [Department of Evolutionary Anthropology](https://evolutionaryanthropology.duke.edu/) at Duke University and a graduate research assistant in pandemic lifecycle modeling at the [Triangle Center for Evolutionary Medicine (TriCEM)](https://tricem.org/).
 
 As an anthropologist, I am interested in how market integration influences human movement and infectious disease ecology. My dissertation work focuses on these relationships in rural northeast Madagascar, where smallholder farmers are increasingly shifting from subsistence crops to cash crops, particularly vanilla. This change has wide-ranging implications for the health of farmers and their families, and I leverage tools from network science, epidemiology, and human biology to address fundamental questions about disease ecology with an aim to inform interventions. In doing so, I draw on [One Health](https://www.cdc.gov/onehealth/index.html) as an organizing framework that emphasizes the interconnections of human, animal, and environmental health.
 
