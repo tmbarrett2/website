@@ -25,10 +25,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:tyler.barrett@duke.edu
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/tylermbarrett
-    label: Follow me on Twitter
+    link: https://fediscience.org/web/@tylermbarrett
+    label: Follow me on Mastodon
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -56,6 +56,6 @@ I am a Ph.D. student in the [Department of Evolutionary Anthropology](https://ev
 
 As an anthropologist, I am interested in how market integration influences human movement and infectious disease ecology. My dissertation work focuses on these relationships in rural northeast Madagascar, where smallholder farmers are increasingly shifting from subsistence crops to cash crops, particularly vanilla. This change has wide-ranging effects on the health of farmers and their families, and I use tools from network science, epidemiology, and human biology to better understand these effects with an aim to inform interventions. In doing so, I draw on [One Health](https://www.cdc.gov/onehealth/index.html) as an organizing framework that emphasizes the interconnections of human, animal, and environmental health.
 
-You can keep up-to-date on my work by following me on Twitter or Google Scholar.
+You can keep up-to-date on my work by following me on Mastodon or Google Scholar.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/TylerBarrettCV_Oct2022.pdf" "newtab" >}}CV{{< /staticref >}}.
